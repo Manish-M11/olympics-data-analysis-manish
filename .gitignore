@@ -1,1 +1,7 @@
 env
+*.pyc
+.DS_Store
+.env
+Procfile
+setup.sh
+requirements.txt
